@@ -1,4 +1,7 @@
 # projeto-js
-D3DFF4 pagina
+topo e rodape
+B8CBEE
 
-AAADB2 rodapé
+
+pagina 
+D3DFF4

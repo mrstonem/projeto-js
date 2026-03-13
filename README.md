@@ -1,9 +1,13 @@
 # projeto-js
 Cores
-Topo e rodapé - B8CBEE
-Página - D3DFF4
-Cards - 85AFCE
-Campos de texto - D9D9D9
+
+Topo e rodapé - B8CBEE;
+
+Página - D3DFF4;
+
+Cards - 85AFCE;
+
+Campos de texto - D9D9D9;
 
 Fonte - Arial Narrow
 
